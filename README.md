@@ -7,11 +7,11 @@
 
 ![rjuniorvx GitHub stats](https://github-readme-stats.vercel.app/api?username=rjuniorvx&show_icons=true&theme=dracula)
 
-### Technologies I use in my daily life
+### Tecnologias que utilizo em meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
      <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-An enthusiast for the technological world, looking for improvements and innovations that shape the future.
+Entusiasta do mundo tecnológico, em busca de melhorias e inovações que moldem o futuro.
