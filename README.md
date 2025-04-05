@@ -1,10 +1,10 @@
 
 ### Hello! I'm Roberto Junior 🚀
 
-(Java|Python|MySQL|Cloud|Network and Systems)
+(Java | Python | MySQL | Cloud | Network and Systems)
 
-◽ BackEnd Developer ⚙️
-◽ Cloud Computing ☁️
+◽ BackEnd Developer ⚙️<br>
+◽ Cloud Computing ☁️<br>
 ◽ Cybersecurity Enthusiast 🔒
 
 
