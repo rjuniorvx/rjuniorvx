@@ -1,9 +1,12 @@
 
-<title>### Hello! I'm Roberto Junior 🚀</title>
+### Hello! I'm Roberto Junior 🚀
 
-<body>
 (Java|Python|MySQL|Cloud|Network and Systems)
-</body>
+
+◽ BackEnd Developer ⚙️
+◽ Cloud Computing ☁️
+◽ Cybersecurity Enthusiast 🔒
+
 
 
 [![Site](https://img.shields.io/badge/CodificandoBytes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codificandobytes.com.br/)
