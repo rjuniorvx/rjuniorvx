@@ -1,5 +1,10 @@
 
-### Hello! I'm Roberto Junior 🚀
+<title>### Hello! I'm Roberto Junior 🚀</title>
+
+<body>
+(Java|Python|MySQL|Cloud|Network and Systems)
+</body>
+
 
 [![Site](https://img.shields.io/badge/CodificandoBytes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codificandobytes.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjuniorvx/)
