@@ -5,6 +5,7 @@
 
 ◽ BackEnd Developer ⚙️<br>
 ◽ Cloud Computing ☁️<br>
+◽ Competitive Programming 💻<br>
 ◽ Cybersecurity Enthusiast 🔒
 
 
@@ -13,9 +14,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjuniorvx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-junior-304186293/)
 
-![rjuniorvx GitHub stats](https://github-readme-stats.vercel.app/api?username=rjuniorvx&show_icons=true&theme=dracula)
+![rjuniorvx GitHub stats](https://github-readme-stats.vercel.app/api?username=rjuniorvx&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjuniorvx&locale=en&hide_title=false&layout=compact&card_width=382&langs_count=5&theme=transparent&hide_border=false" height="195" alt="languages graph"  />
 
-### Technologies that I use in my daily life
+
+## Technologies that I use in my daily life
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,3 +32,7 @@
     <img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     
 </div><br/>
+
+----
+
+
