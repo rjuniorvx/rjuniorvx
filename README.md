@@ -10,7 +10,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-junior-304186293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjuniorvx/)
 [![Site](https://img.shields.io/badge/CodificandoBytes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codificandobytes.com.br/)
 
 
