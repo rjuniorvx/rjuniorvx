@@ -10,9 +10,9 @@
 
 
 
-[![Site](https://img.shields.io/badge/CodificandoBytes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codificandobytes.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjuniorvx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-junior-304186293/)
+[![Site](https://img.shields.io/badge/CodificandoBytes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codificandobytes.com.br/)
+
 
 ![rjuniorvx GitHub stats](https://github-readme-stats.vercel.app/api?username=rjuniorvx&show_icons=true&theme=transparent)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjuniorvx&locale=en&hide_title=false&layout=compact&card_width=394&langs_count=5&theme=transparent&hide_border=false" height="195" alt="languages graph"  />
